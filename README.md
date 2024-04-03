@@ -73,7 +73,7 @@ Please read [CONTRIBUTING.md](https://github.com/UnlimitedDrip/ProjectPinecone/b
 
 - **Aaron Santiago** - _Features_
 - **Daniel Minichetti** - _Initial website_
-- **Sergio Rabadan** - _Initial Features_
+- **Sergio Rabadan** - _Initial Features_, _Blackend Implementor_, 
 - **Thomas Rhode** - _Features_
 
 ## [License](https://github.com/UnlimitedDrip/ProjectPinecone/#license)
